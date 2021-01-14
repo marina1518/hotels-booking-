@@ -1,0 +1,50 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/images.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/هر.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/فهرس.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/hotel design meduim quality.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/gender.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/id.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/add.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/mobile.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/email.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/password.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/username.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/calender.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/adult children2.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/room.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/taxi4.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>neven_qrc/PAYPAL.png</file>
+  </qresource>
+</RCC>

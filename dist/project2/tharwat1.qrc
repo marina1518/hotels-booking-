@@ -1,0 +1,24 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>pass.png</file>
+    <file>username.png</file>
+    <file>signup.jpg</file>
+    <file>emai.png</file>
+    <file>hotel3.jpg</file>
+    <file>hotel4.jpg</file>
+    <file>hotel11.jpg</file>
+    <file>swim.png</file>
+    <file>wifi.jpg</file>
+    <file>bar.png</file>
+    <file>fitness.jpg</file>
+    <file>beach.jpg</file>
+    <file>ROOM11.jpg</file>
+    <file>ROOM12.jpg</file>
+    <file>ROOM13.jpg</file>
+    <file>room21.jpg</file>
+    <file>room22.jpg</file>
+    <file>rest.png</file>
+    <file>just.jpg</file> 
+   
+</qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file>botros_icons/guest.png</file>
+    <file>botros_icons/discount.png</file>
+    <file>botros_icons/hall.png</file>
+    <file>botros_icons/room.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>botros_icons/hotel design meduim quality.png</file>
+  </qresource>
+</RCC>

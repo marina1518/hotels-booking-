@@ -1,0 +1,81 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/dahab2(1).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/hotel design meduim quality.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/logo final meduim quailty .png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/549724.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/hotel design 1.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/6800427-light-blue-backgrounds.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/266233375.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/hotel-booking-1-501622.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (5).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/double.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/double 2.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/double 3.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/single.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/single.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/single 1.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/single3.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (4).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (3).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (2).png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (1).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/266233395.webp</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (7).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/pngwing.com (6).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/WhatsApp Image 2020-12-12 at 11.58.06 AM.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>mariz_qrc/267130949.webp</file>
+  </qresource>
+</RCC>

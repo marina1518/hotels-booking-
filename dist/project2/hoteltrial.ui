@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>914</width>
+    <height>918</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_9">
+    <item row="0" column="0">
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="styleSheet">
+       <string notr="true">background:qconicalgradient(cx:0.5, cy:0.205, angle:0, stop:0 rgba(239, 249, 169, 255), stop:0.298507 rgba(252, 252, 252, 255), stop:0.885572 rgba(247, 252, 144, 255))</string>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>892</width>
+         <height>856</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_10">
+        <item row="0" column="1">
+         <widget class="QFrame" name="frame">
+          <property name="styleSheet">
+           <string notr="true">background:qconicalgradient(cx:0.5, cy:0.205, angle:0, stop:0 rgba(239, 249, 169, 255), stop:0.298507 rgba(252, 252, 252, 255), stop:0.885572 rgba(247, 252, 144, 255))</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_5">
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_3">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.2);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout">
+              <item row="1" column="2">
+               <widget class="QLabel" name="label_4">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/hotel3.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_2">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/hotel11.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QLabel" name="label_3">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/hotel4.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QFrame" name="frame_4">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_6">
+              <item row="2" column="5">
+               <widget class="QLabel" name="label_16">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>Beachfront </string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="1" colspan="3">
+               <widget class="QLabel" name="label_14">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>good fitness center</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="4">
+               <widget class="QLabel" name="label_15">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/beach.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="2">
+               <widget class="QLabel" name="label_9">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/wifi.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_6">
+                <property name="styleSheet">
+                 <string notr="true">background:rgba(255,255,255,0.2);
+border-image: url(:/bar.png);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QLabel" name="label_8">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>  Bar</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="3">
+               <widget class="QLabel" name="label_10">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>Free wifi</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="4">
+               <widget class="QLabel" name="label_11">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/swim.png);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="5">
+               <widget class="QLabel" name="label_12">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>swimming pool</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QLabel" name="label_13">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/fitness.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="0" colspan="4">
+               <widget class="QLabel" name="label_7">
+                <property name="styleSheet">
+                 <string notr="true">background:rgba(255,255,255,0.2);
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>Most popular facilities : </string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item row="4" column="0">
+            <widget class="QFrame" name="frame_5">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_2">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_17">
+                <property name="styleSheet">
+                 <string notr="true">background:rgba(255,255,255,0.4);
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>Reviews :</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_18">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>                                           Natalie
+All the staff in the hotel is sincerely doing their best to make guest’s stay wonderful! Thank you to all the hotel team!</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QLabel" name="label_19">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>                                          Jaden
+“The staff is very friendly and always smiling and greetings you every time you walk by the food was very good and delicious &quot;</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item row="2" column="0">
+            <widget class="QLabel" name="label_5">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+             </property>
+             <property name="text">
+              <string>Pure Life (Adults Only) in Hurghada provides adults-only accommodation with a fitness centre, a bar and a garden. Featuring a 24-hour front desk, this property also welcomes guests with a restaurant, a water park and an outdoor pool. The accommodation offers evening entertainment and room service.Albatros White Beach is 2.3 km from Steigenberger Pure Lifestyle (Adults Only), while New Marina is 12 km away. The nearest airport is Hurghada International Airport, 3 km from the resort.\n\nCouples particularly like the location — they rated it 9.4 for a two-person trip. </string>
+             </property>
+             <property name="wordWrap">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label">
+             <property name="maximumSize">
+              <size>
+               <width>16777215</width>
+               <height>41</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.2);
+font: italic 12pt &quot;MS Shell Dlg 2&quot;;</string>
+             </property>
+             <property name="text">
+              <string>                     Pure Llife Hurghada</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="3">
+         <widget class="QFrame" name="frame_2">
+          <property name="styleSheet">
+           <string notr="true">background:qconicalgradient(cx:0.5, cy:0.205, angle:0, stop:0 rgba(239, 249, 169, 255), stop:0.298507 rgba(252, 252, 252, 255), stop:0.885572 rgba(247, 252, 144, 255))</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_7">
+           <item row="0" column="0" colspan="2">
+            <layout class="QHBoxLayout" name="horizontalLayout">
+             <item>
+              <widget class="QPushButton" name="BookBtn">
+               <property name="styleSheet">
+                <string notr="true">/*background:rgba(255,255,255,0.4);
+font: italic 12pt &quot;MS Shell Dlg 2&quot;;*/
+QPushButton {
+
+   border-radius: 70px;
+   height: 14px;
+   line-height: 14px;
+   color: #000000;
+   font-family: Arial;
+   width: 149px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 12px;
+   background-color: #FFE300;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.QPushButton:hover {
+   background: #84D7D7;
+   border: solid #73849D 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}</string>
+               </property>
+               <property name="text">
+                <string>Book From Here</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_2">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>-1</pointsize>
+                 <weight>12</weight>
+                 <bold>false</bold>
+                 <underline>false</underline>
+                 <strikeout>false</strikeout>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">.QPushButton {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 14px;
+   line-height: 0px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 140px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 14px;
+   background-color: #000000;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.QPushButton:hover {
+   background: #123774;
+   border: solid #337FED 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}</string>
+               </property>
+               <property name="text">
+                <string>Back</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item row="1" column="0">
+            <widget class="QLabel" name="label_20">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+             </property>
+             <property name="text">
+              <string>Jacuzzi Suite :
+
+Room size : 50 m²
+This suite features air conditioning, minibar and pool view. It offers complete privacy with ultra-contemporary décor
+
+Room facilities: ​
+1]Hot tub               2]Air conditioning
+3]Coffee machine   4]Wake-up service</string>
+             </property>
+             <property name="wordWrap">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="0" colspan="2">
+            <widget class="QFrame" name="frame_6">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_3">
+              <item row="0" column="1">
+               <widget class="QLabel" name="label_22">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/ROOM12.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QLabel" name="label_23">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/ROOM13.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_21">
+                <property name="styleSheet">
+                 <string notr="true">
+border-image: url(:/ROOM11.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QLabel" name="label_24">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+             </property>
+             <property name="text">
+              <string>Swim_up Suite :
+
+ Room size: 50 m²
+This suite has a flat-screen TV, tile/marble floor and minibar. It features seamless access into the pool
+
+Room facilities:
+1]Hot tub             2]Air conditioning
+3]Coffee machine 4]Wake-up service
+
+</string>
+             </property>
+             <property name="wordWrap">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="1">
+            <spacer name="horizontalSpacer_3">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Fixed</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>40</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item row="4" column="0">
+            <widget class="QFrame" name="frame_7">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_4">
+              <item row="0" column="1">
+               <widget class="QLabel" name="label_25">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/ROOM12.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QLabel" name="label_26">
+                <property name="styleSheet">
+                 <string notr="true">
+border-image: url(:/room22.jpg);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_27">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/room21.jpg);
+</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item row="5" column="0">
+            <widget class="QFrame" name="frame_8">
+             <property name="styleSheet">
+              <string notr="true">background:rgba(255,255,255,0.4);</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_8">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_30">
+                <property name="maximumSize">
+                 <size>
+                  <width>51</width>
+                  <height>41</height>
+                 </size>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/rest.png);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QLabel" name="label_28">
+                <property name="styleSheet">
+                 <string notr="true">background:rgba(255,255,255,0.2);
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>Restaurants &amp; cafes : </string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0" colspan="2">
+               <widget class="QLabel" name="label_29">
+                <property name="styleSheet">
+                 <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                 <string>1] PURE CHILL BAR &lt;&lt;0.6 km &gt;&gt;
+2]GOURMENT RESTAURANT &lt;&lt;0.8 KM &gt;&gt;</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Fixed</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item row="0" column="0">
+         <spacer name="horizontalSpacer_2">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Fixed</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>914</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="tharwat1.qrc"/>
+ </resources>
+ <connections/>
+</ui>

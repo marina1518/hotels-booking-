@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/SERV.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/hotel design meduim quality.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/SEEE.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/فهرس.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/star.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/LKIHNL.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/gym2.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/caar.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/party.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>nevencheckin_qrc/SPA2.png</file>
+  </qresource>
+</RCC>

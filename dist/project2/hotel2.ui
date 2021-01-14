@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>810</width>
+    <height>1578</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:pad, x1:0.557, y1:0.477273, x2:1, y2:0.784091, stop:0 rgba(66, 229, 251, 255), stop:1 rgba(255, 255, 255, 255));</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="styleSheet">
+       <string notr="true">background-color: qlineargradient(spread:pad, x1:0.204194, y1:0.182, x2:0.07, y2:0.0454545, stop:0 rgba(66, 229, 251, 255), stop:1 rgba(255, 255, 255, 255));</string>
+      </property>
+      <property name="sizeAdjustPolicy">
+       <enum>QAbstractScrollArea::AdjustToContents</enum>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>788</width>
+         <height>1516</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout" rowstretch="0,0,0,0,0,0,0,0">
+        <item row="4" column="0">
+         <widget class="QLabel" name="label_5">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(211, 238, 255);</string>
+          </property>
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:12pt; font-weight:600; color:#333333;&quot;&gt;Most popular facilities: &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com (1).png&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;1 swimming pool &lt;/span&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com.png&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt; Beachfront &lt;/span&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com (2).png&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt; Airport shuttle &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com (3).png&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt; Free parking &lt;/span&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com (4).png&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Fitness centre&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="label_6">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(211, 238, 255);</string>
+          </property>
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600; text-decoration: underline;&quot;&gt;Situated within 50 m of elmasbat area . &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600; text-decoration: underline;&quot;&gt;Pure Life Residence features rooms with air conditioning and a private bathroom in Dahab. The property is set 2 km from Mirage Village Divers - Dive Centre, 2.2 km from Red Sea Relax Dive Resort and 2.2 km from Dahab Divers South Sinai Diver Centre. Private parking can be arranged at an extra charge.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600; text-decoration: underline;&quot;&gt;All rooms at the hotel are fitted with a seating area and a flat-screen TV.Pure life Hotel offers a terrace.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600; text-decoration: underline;&quot;&gt;Popular points of interest near the accommodation include Eel Garden - dive site entry, Fantasea Divers and Blue Beach Dive Club. The nearest airport is Sharm el-Sheikh International Airport, 61 km from Pure Life residance.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600; text-decoration: underline;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QScrollArea" name="scrollArea_5">
+          <property name="styleSheet">
+           <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(96, 241, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+          </property>
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollAreaWidgetContents_6">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>357</width>
+             <height>303</height>
+            </rect>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_3">
+            <item row="0" column="0">
+             <layout class="QGridLayout" name="gridLayout_2">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/newPrefix/mariz_qrc/267130949.webp);
+</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QLabel" name="label_3">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/newPrefix/mariz_qrc/266233395.webp);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QLabel" name="label_2">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(:/newPrefix/mariz_qrc/266233375.webp);</string>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QScrollArea" name="scrollArea_6">
+          <property name="styleSheet">
+           <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(96, 241, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+          </property>
+          <property name="sizeAdjustPolicy">
+           <enum>QAbstractScrollArea::AdjustToContents</enum>
+          </property>
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollAreaWidgetContents_7">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>399</width>
+             <height>304</height>
+            </rect>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_5">
+            <item row="0" column="3">
+             <widget class="QLabel" name="label_17">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/single3.webp);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <widget class="QLabel" name="label_15">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/single.jpg);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="0">
+             <widget class="QLabel" name="label_10">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/single.webp);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="2">
+             <widget class="QLabel" name="label_16">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/single 1.jpg);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QLabel" name="label_9">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(193, 239, 255);</string>
+          </property>
+          <property name="text">
+           <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.booking.com/hotel/eg/neptune-residence.en-gb.html?aid=303948;label=dhahab-oibS5_n36OgyYzC_bUi2mAS239955824155%3Apl%3Ata%3Ap165%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-10437407479%3Alp21468%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Yf5EcukO1MOGLSSAuId8ToA;sid=904e49991ca329f2d619108f568913f6;dest_id=-293084;dest_type=city;dist=0;from_beach_non_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1607376245;srpvid=aebb967aab7b0087;type=total;ucfs=1&amp;amp;#RD651855402&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:11pt; font-weight:600; text-decoration: underline; color:#0000ff; background-color:#ffffff;&quot;&gt;Twin Room with Pool View&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;Room size: &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333; background-color:#ffffff;&quot;&gt;20 m²&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;In your private bathroom:&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Free toiletries&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Shower&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Toilet&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Towels&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Toilet paper&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;View:&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Pool view&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;Room facilities:&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt; ​Entire unit located on ground floor&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Linen&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Minibar&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Air conditioning&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Hypoallergenic&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Tile/marble floor&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Electric kettle&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Seating Area&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Flat-screen TV&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Socket near the bed&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Clothes rack&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Sofa bed&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;Smoking:&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt; ​No smoking&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#333333;&quot;&gt;Parking: ​&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Free private parking is possible on site (reservation is not needed).&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QLabel" name="label_11">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(193, 239, 255);</string>
+          </property>
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.booking.com/hotel/eg/neptune-residence.en-gb.html?aid=303948;label=dhahab-oibS5_n36OgyYzC_bUi2mAS239955824155%3Apl%3Ata%3Ap165%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-10437407479%3Alp21468%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Yf5EcukO1MOGLSSAuId8ToA;sid=904e49991ca329f2d619108f568913f6;dest_id=-293084;dest_type=city;dist=0;from_beach_non_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1607376245;srpvid=aebb967aab7b0087;type=total;ucfs=1&amp;amp;#RD651855401&quot;&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; text-decoration: underline; color:#0000ff; background-color:#ffffff;&quot;&gt;Double Room with Sea View&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Room size &lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; :&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333; background-color:#ffffff;&quot;&gt;30 m²&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;This double room has a electric kettle, air conditioning and flat-screen TV.&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;In your private bathroom:&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Free toiletries -&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Shower - Toilet -&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Towels&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Toilet paper&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;View:&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Sea view&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Mountain view&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;City view&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Room facilities:&lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Upper floors accessible by stairs only&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Linen&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Wardrobe or closet&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Tea/Coffee maker&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Minibar&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Air conditioning&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Hypoallergenic&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Tile/marble floor&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Children's high chair&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Microwave&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Kitchenware&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Kitchenette&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Electric kettle&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Seating Area&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;TV&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Satellite channels&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Flat-screen TV&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Socket near the bed&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Clothes rack&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt; - &lt;/span&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Sofa bed&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Smoking: ​&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;No smoking&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Parking: ​&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;/&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:9pt; font-weight:600; color:#333333;&quot;&gt;Free private parking is possible on site (reservation is not needed).&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QPushButton" name="book_button1">
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>-1</pointsize>
+            <weight>87</weight>
+            <bold>true</bold>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">/*background-image: url(:/newPrefix/mariz_qrc/6800427-light-blue-backgrounds.png);*/
+.QPushButton {
+   background: #0879F7;
+   background-image: -webkit-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -moz-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -ms-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -o-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #0879F7, #1E62D0);
+   -webkit-border-radius: 49px;
+   -moz-border-radius: 49px;
+   border-radius: 49px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 24px;
+   font-weight: 700;
+   padding: 14px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.QPushButton::hover {
+   border: solid #337FED 0;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 44px;
+   -moz-border-radius: 44px;
+   border-radius: 44px;
+   text-decoration: none;
+}</string>
+          </property>
+          <property name="text">
+           <string>BOOK HERE !</string>
+          </property>
+          <property name="icon">
+           <iconset resource="mariz.qrc">
+            <normaloff>:/newPrefix/mariz_qrc/hotel-booking-1-501622.png</normaloff>:/newPrefix/mariz_qrc/hotel-booking-1-501622.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>40</width>
+            <height>40</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_4">
+          <property name="styleSheet">
+           <string notr="true">background-image: url(:/newPrefix/mariz_qrc/6800427-light-blue-backgrounds.png);</string>
+          </property>
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; font-weight:600; font-style:italic;&quot;&gt;Pure Life Dahab&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="1">
+         <widget class="QLabel" name="label_7">
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(211, 238, 255);</string>
+          </property>
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:'Segoe UI,sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Restaurants &amp;amp; cafes: &lt;/span&gt;&lt;img src=&quot;:/newPrefix/mariz_qrc/pngwing.com (5).png&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;- Restaurant King Chicken ' YUM YUM ' &amp;lt;&amp;lt; 0.5 km &amp;gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;- Cafe / Bar ' Everyday cafe ' &amp;lt;&amp;lt; 0.7 km &amp;gt;&amp;gt;&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0" rowspan="3">
+         <widget class="QGroupBox" name="groupBox">
+          <property name="font">
+           <font>
+            <pointsize>11</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+            <strikeout>false</strikeout>
+           </font>
+          </property>
+          <property name="title">
+           <string>REVIEWS</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_2" stretch="110,0,120,0">
+           <item>
+            <widget class="QLabel" name="label_8">
+             <property name="styleSheet">
+              <string notr="true">background-color: qlineargradient(spread:pad, x1:0.686104, y1:0.153, x2:0, y2:1, stop:0 rgba(85, 172, 255, 215), stop:1 rgba(255, 255, 255, 255));</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#5500ff;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#5500ff;&quot;&gt;[1]&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-family:'BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#5500ff;&quot;&gt;“The hotel is refurbished and the rooms are clean and nice. &lt;/span&gt;&lt;span style=&quot; font-family:'BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#5500ff; vertical-align:top;&quot;&gt;A beautiful swimming pool and a small gym in the common area, rooms with sea view.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#5500ff;&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+             <property name="wordWrap">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="verticalSpacer_2">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Fixed</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>40</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <widget class="QLabel" name="label_18">
+             <property name="styleSheet">
+              <string notr="true">background-color: qlineargradient(spread:pad, x1:0.686104, y1:0.153, x2:0, y2:1, stop:0 rgba(85, 172, 255, 215), stop:1 rgba(255, 255, 255, 255));</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#5500ff;&quot;&gt;[2]&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-family:'BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif'; font-size:10pt; font-weight:600; font-style:italic; color:#5500ff; vertical-align:top;&quot;&gt;“The staff are friendly and supportive especially Mahmoud.”&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#5500ff;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+             <property name="wordWrap">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="verticalSpacer">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Fixed</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>40</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="5" column="1">
+         <widget class="QScrollArea" name="scrollArea_3">
+          <property name="styleSheet">
+           <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(96, 241, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+          </property>
+          <property name="sizeAdjustPolicy">
+           <enum>QAbstractScrollArea::AdjustToContents</enum>
+          </property>
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollAreaWidgetContents_3">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>399</width>
+             <height>303</height>
+            </rect>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_6">
+            <item row="0" column="0">
+             <widget class="QLabel" name="label_12">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/double.webp);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="2">
+             <widget class="QLabel" name="label_13">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/double 3.webp);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <widget class="QLabel" name="label_14">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(:/newPrefix/mariz_qrc/double 2.webp);</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QPushButton" name="pushButton">
+          <property name="styleSheet">
+           <string notr="true">.QPushButton {
+   background: #0879F7;
+   background-image: -webkit-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -moz-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -ms-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -o-linear-gradient(top, #0879F7, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #0879F7, #1E62D0);
+   -webkit-border-radius: 49px;
+   -moz-border-radius: 49px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 14px;
+   font-weight: 700;
+   padding: 5px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.QPushButton::hover {
+   border: solid #337FED 0;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 44px;
+   -moz-border-radius: 44px;
+   border-radius: 44px;
+   text-decoration: none;
+}</string>
+          </property>
+          <property name="text">
+           <string>Back</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>810</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <tabstops>
+  <tabstop>scrollArea_5</tabstop>
+  <tabstop>book_button1</tabstop>
+  <tabstop>scrollArea_6</tabstop>
+  <tabstop>scrollArea_3</tabstop>
+ </tabstops>
+ <resources>
+  <include location="mariz.qrc"/>
+ </resources>
+ <connections/>
+</ui>
